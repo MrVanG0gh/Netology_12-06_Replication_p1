@@ -68,12 +68,12 @@ my_cnf for Slave
 server-id=2
 ```
 
-![Screen_1](https://github.com/MrVanG0gh/Netology_12-06_Replication_p1/blob/main/images/Screenshot_1.png)
+![Screen_1](https://github.com/MrVanG0gh/Netology_12-06_Replication_p1/blob/main/Screenshots/Screenshot_1.png)
 
 Контейнеры запущены
 
-![Screen_3](https://github.com/MrVanG0gh/Netology_12-06_Replication_p1/blob/main/images/Screenshot_3.png)
-![Screen_4](https://github.com/MrVanG0gh/Netology_12-06_Replication_p1/blob/main/images/Screenshot_4.png)
+![Screen_3](https://github.com/MrVanG0gh/Netology_12-06_Replication_p1/blob/main/Screenshots/Screenshot_3.png)
+![Screen_4](https://github.com/MrVanG0gh/Netology_12-06_Replication_p1/blob/main/Screenshots/Screenshot_4.png)
 
 Dbeaver успешно подключился к обоим инстансам. Дополнительно произведены донастройки пользователей и режимов репликации. Для Slave были указаны master_log_pos и master_log_file. Были проверены режимы работы серверов.
 
